@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 30a22ff351528794e827727e65c80e5b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: brakes_f
+    100002: chain
+    100004: exhaust_l
+    100006: exhaust_r
+    100008: handlebars
+    100010: head
+    100012: headLights
+    100014: indicatorLights_l
+    100016: indicatorLights_l-st
+    100018: indicatorLights_r
+    100020: indicatorLights_r-st
+    100022: licensePlate
+    100024: lights
+    100026: lights-st
+    100028: mirror_l
+    100030: mirror_r
+    100032: motor
+    100034: //RootNode
+    100036: mudguard
+    100038: needle
+    100040: speedometer
+    100042: steering
+    100044: suspension_b
+    100046: tailLights
+    100048: wheel_b
+    100050: wheel_f
+    400000: brakes_f
+    400002: chain
+    400004: exhaust_l
+    400006: exhaust_r
+    400008: handlebars
+    400010: head
+    400012: headLights
+    400014: indicatorLights_l
+    400016: indicatorLights_l-st
+    400018: indicatorLights_r
+    400020: indicatorLights_r-st
+    400022: licensePlate
+    400024: lights
+    400026: lights-st
+    400028: mirror_l
+    400030: mirror_r
+    400032: motor
+    400034: //RootNode
+    400036: mudguard
+    400038: needle
+    400040: speedometer
+    400042: steering
+    400044: suspension_b
+    400046: tailLights
+    400048: wheel_b
+    400050: wheel_f
+    2100000: paintBlack
+    2100002: Black
+    2100004: Metal
+    2100006: Blue
+    2100008: Chrome
+    2100010: paintWhite
+    2100012: lightsOrange
+    2100014: lightsRed
+    2100016: Windows
+    2100018: lightsWhite
+    2300000: brakes_f
+    2300002: chain
+    2300004: exhaust_l
+    2300006: exhaust_r
+    2300008: handlebars
+    2300010: head
+    2300012: headLights
+    2300014: indicatorLights_l
+    2300016: indicatorLights_l-st
+    2300018: indicatorLights_r
+    2300020: indicatorLights_r-st
+    2300022: licensePlate
+    2300024: lights
+    2300026: lights-st
+    2300028: mirror_l
+    2300030: mirror_r
+    2300032: motor
+    2300034: //RootNode
+    2300036: mudguard
+    2300038: needle
+    2300040: speedometer
+    2300042: steering
+    2300044: suspension_b
+    2300046: tailLights
+    2300048: wheel_b
+    2300050: wheel_f
+    3300000: brakes_f
+    3300002: chain
+    3300004: exhaust_l
+    3300006: exhaust_r
+    3300008: handlebars
+    3300010: head
+    3300012: headLights
+    3300014: indicatorLights_l
+    3300016: indicatorLights_l-st
+    3300018: indicatorLights_r
+    3300020: indicatorLights_r-st
+    3300022: licensePlate
+    3300024: lights
+    3300026: lights-st
+    3300028: mirror_l
+    3300030: mirror_r
+    3300032: motor
+    3300034: //RootNode
+    3300036: mudguard
+    3300038: needle
+    3300040: speedometer
+    3300042: steering
+    3300044: suspension_b
+    3300046: tailLights
+    3300048: wheel_b
+    3300050: wheel_f
+    4300000: Motorcycle_06
+    4300002: brakes_f
+    4300004: exhaust_l
+    4300006: exhaust_r
+    4300008: licensePlate
+    4300010: lights
+    4300012: indicatorLights_l
+    4300014: indicatorLights_r
+    4300016: tailLights
+    4300018: motor
+    4300020: steering
+    4300022: wheel_f
+    4300024: mudguard
+    4300026: head
+    4300028: speedometer
+    4300030: needle
+    4300032: lights-st
+    4300034: indicatorLights_l-st
+    4300036: indicatorLights_r-st
+    4300038: headLights
+    4300040: mirror_r
+    4300042: mirror_l
+    4300044: handlebars
+    4300046: suspension_b
+    4300048: wheel_b
+    4300050: chain
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
